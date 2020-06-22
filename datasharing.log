@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.8)  22 JUN 2020 13:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.8)  22 JUN 2020 15:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1731,22 +1731,19 @@ Overfull \vbox (48.46971pt too high) detected at line 37
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<owl.jpg, id=21, 451.6875pt x 451.6875pt>
+<owl.jpg, id=21, 640.3925pt x 360.34625pt>
 File: owl.jpg Graphic file (type jpg)
  <use owl.jpg>
 Package pdftex.def Info: owl.jpg used on input line 43.
-(pdftex.def)             Requested size: 239.68571pt x 239.68959pt.
+(pdftex.def)             Requested size: 307.28987pt x 172.91475pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 43.
-
-Overfull \vbox (32.01942pt too high) detected at line 43
- []
-
-[2
+ [2
 
  <./owl.jpg>]
 LaTeX Font Info:    Try loading font information for TS1+phv on input line 76.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1phv.fd
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
 Package microtype Info: Loading generic settings for font family
@@ -1758,6 +1755,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Try loading font information for U+msa on input line 76.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -1832,7 +1830,7 @@ Here is how much of TeX's memory you used:
 exlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/tex
 mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on datasharing.pdf (8 pages, 71352 bytes).
+Output written on datasharing.pdf (8 pages, 76454 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
