@@ -1,3 +1,3 @@
 # Datasharing_presentation
 
-A introductionary presentation about datasharing using Git/GitHub
+A introductionary presentation about datasharing using `Git/GitHub`
