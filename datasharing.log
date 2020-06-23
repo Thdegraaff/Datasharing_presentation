@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.8)  22 JUN 2020 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.8)  23 JUN 2020 09:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1741,7 +1741,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
  [2
 
  <./owl.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 76.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 79.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
@@ -1754,7 +1754,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for U+msa on input line 76.
+LaTeX Font Info:    Try loading font information for U+msa on input line 79.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1762,7 +1762,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 76.
+LaTeX Font Info:    Try loading font information for U+msb on input line 79.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1771,11 +1771,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 79.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 76.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 79.
  [3
 
 ]
@@ -1789,7 +1789,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 File: octopussy.png Graphic file (type png)
 
 <use octopussy.png>
-Package pdftex.def Info: octopussy.png used on input line 131.
+Package pdftex.def Info: octopussy.png used on input line 134.
 (pdftex.def)             Requested size: 153.64493pt x 128.03683pt.
  [7
 
@@ -1801,6 +1801,17 @@ Package microtype Info: Loading generic settings for font family
  [8
 
 ]
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 157.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 157.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 157.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 157.
+ [9
+
+]
 \tf@nav=\write11
 \openout11 = `datasharing.nav'.
 
@@ -1810,30 +1821,35 @@ Package microtype Info: Loading generic settings for font family
 \tf@snm=\write13
 \openout13 = `datasharing.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
  (./datasharing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
 Package rerunfilecheck Info: File `datasharing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 157 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 28458 strings out of 492995
- 580067 string characters out of 6132704
- 758088 words of memory out of 5000000
- 31314 multiletter control sequences out of 15000+600000
- 39801 words of font info for 79 fonts, out of 8000000 for 9000
+ 28566 strings out of 492995
+ 582373 string characters out of 6132704
+ 759046 words of memory out of 5000000
+ 31403 multiletter control sequences out of 15000+600000
+ 54471 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,88p,1870b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
-017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/tex
-mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on datasharing.pdf (8 pages, 76454 bytes).
+ 71i,13n,97p,1870b,814s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on datasharing.pdf (9 pages, 86535 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 21557 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
+ 31797 words of extra memory for PDF output out of 35830 (max. 10000000)
 
